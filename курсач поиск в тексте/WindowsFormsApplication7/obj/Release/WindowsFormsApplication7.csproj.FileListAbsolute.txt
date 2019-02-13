@@ -1,0 +1,29 @@
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+c:\users\6\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Form1.resources
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+E:\ДЗ\на заказ\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Usser\Desktop\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\Kurs.Form1.resources
+C:\Users\Usser\Desktop\Курсовая работа\курсач поиск в тексте\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\Usser\Desktop\Курсовая работа\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\Usser\Desktop\Курсовая работа\курсач поиск в тексте\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
